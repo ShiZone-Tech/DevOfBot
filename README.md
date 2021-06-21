@@ -1,4 +1,4 @@
 # DevOfBot
 I am Dev Of Bot and this is my personal website, consult me here.
 
-[vist](https://shizone-tech.github.io/DevOfBot/)
+[visit our website](https://shizone-tech.github.io/DevOfBot/)
